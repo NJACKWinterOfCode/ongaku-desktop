@@ -4,6 +4,11 @@
 
 Play anime music with ease on your desktop. Uses [ongaku](https://github.com/anshumanv/ongaku) web-app under the hood.
 
+### Ongaku-logo
+
+![Ongaku-desktop](https://github.com/NJACKWinterOfCode/ongaku-desktop/blob/master/app/assets/icons/logo.png)
+
+
 ### Screenshots
 
 ![sample1](https://user-images.githubusercontent.com/23422478/35113761-a2094da0-fca8-11e7-8f84-f9b95d3d8276.PNG)
@@ -41,3 +46,6 @@ $ npm run build
 ## License
 
 MIT © [Anshuman Verma](https://twitter.com/Anshumaniac12)
+
+
+
