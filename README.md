@@ -1,16 +1,26 @@
-# ongaku-desktop [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](https://electron.atom.io/) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![npm](https://img.shields.io/npm/dt/ongaku-desktop.svg)](https://www.npmjs.com/package/ongaku-desktop) [![npm](https://img.shields.io/npm/v/ongaku-desktop.svg)](https://www.npmjs.com/package/ongaku-desktop) [![SourceForge](https://img.shields.io/sourceforge/dt/ongaku.svg)](https://sourceforge.net/projects/ongaku/)
+# ONGAKU-DESKTOP [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](https://electron.atom.io/) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![npm](https://img.shields.io/npm/dt/ongaku-desktop.svg)](https://www.npmjs.com/package/ongaku-desktop) [![npm](https://img.shields.io/npm/v/ongaku-desktop.svg)](https://www.npmjs.com/package/ongaku-desktop) [![SourceForge](https://img.shields.io/sourceforge/dt/ongaku.svg)](https://sourceforge.net/projects/ongaku/)
 
 > Electron based desktop port of [ongaku](https://ongaku.js.org).
 
 Play anime music with ease on your desktop. Uses [ongaku](https://github.com/anshumanv/ongaku) web-app under the hood.
 
-### Screenshots
+
+
+
+### ONGAKU-LOGO
+
+![Ongaku-desktop](https://github.com/NJACKWinterOfCode/ongaku-desktop/blob/master/app/assets/icons/logo.png)
+
+
+
+### SCREENSHOTS
 
 ![sample1](https://user-images.githubusercontent.com/23422478/35113761-a2094da0-fca8-11e7-8f84-f9b95d3d8276.PNG)
 ![sample2](https://user-images.githubusercontent.com/23422478/35113789-b9593a56-fca8-11e7-8ea9-200bf347ec4a.PNG)
 
 
-## Install and Run
+
+## INSTALL AND RUN
 
 ```
 $ npm install -g ongaku-desktop
@@ -19,7 +29,8 @@ $ ongaku
 # sudo npm install electron -g
 ```
 
-## Dev
+
+## DEV
 
 ```
 $ git clone --recursive https://github.com/Anshuman-Verma/ongaku-desktop.git
@@ -28,16 +39,22 @@ $ npm install
 $ npm start
 ```
 
-### Build
+
+### BUILD
 
 ```
 $ npm run build
 ```
 
-### Downloads
+
+### DOWNLOADS
 
 [<img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" align="center" width="100">](https://sourceforge.net/projects/ongaku/)
 
-## License
+
+## LICENSE
 
 MIT © [Anshuman Verma](https://twitter.com/Anshumaniac12)
+
+
+
